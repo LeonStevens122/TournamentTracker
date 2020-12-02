@@ -148,7 +148,6 @@ namespace TrackerUI
             this.prizePercentageLabel.Size = new System.Drawing.Size(212, 37);
             this.prizePercentageLabel.TabIndex = 31;
             this.prizePercentageLabel.Text = "Prize Percentage";
-            this.prizePercentageLabel.Click += new System.EventHandler(this.label2_Click);
             // 
             // orLabel
             // 
@@ -161,7 +160,6 @@ namespace TrackerUI
             this.orLabel.Size = new System.Drawing.Size(89, 37);
             this.orLabel.TabIndex = 33;
             this.orLabel.Text = "- OR -";
-            this.orLabel.Click += new System.EventHandler(this.orLabel_Click);
             // 
             // CreatePrizeForm
             // 
